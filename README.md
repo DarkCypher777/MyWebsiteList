@@ -15,10 +15,10 @@
 * [Reddit](https://www.reddit.com/) - Font page of the internet
 
 ## Streaming
-* [Disney+](https://www.disneyplus.com/) -
-* [Hulu](https://www.hulu.com/) -
-* [Netflix](https://www.netflix.com/) -
-* [Youtube](https://www.youtube.com/) - 
+* [Disney+](https://www.disneyplus.com/)
+* [Hulu](https://www.hulu.com/)
+* [Netflix](https://www.netflix.com/)
+* [Youtube](https://www.youtube.com/)
 
 ## Other
 * [Github](https://github.com/)
